@@ -7,3 +7,5 @@ All software has bugs. So does VIPM. Thanks for your help reporting them!
 
 ## Download VIPM Desktop
 To download the latest release of VIPM Desktop, go here: [vipm.io/desktop](vipm.io/desktop)
+
+Copyright © 2022 [JKI](https://www.jki.net)
