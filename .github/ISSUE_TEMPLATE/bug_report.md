@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug to help us make VIPM work better for you
 title: ''
-labels: ''
-assignees: ''
+labels: 'new'
+assignees: 'jimkring'
 ---
 
 **A Note to You (With Appreciation from Our Team)**
