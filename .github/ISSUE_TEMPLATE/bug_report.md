@@ -20,12 +20,12 @@ assignees: 'jimkring'
 > 
 > ~ The VIPM Community Team
 
+
 **Short Description of the Bug (in one or two sentences)**
 > _Please provide a clear and concise description of the bug._
 
 
 **Version Information**
-> Please include the version of VIPM
 
 
 VIPM Version and Build:
@@ -67,14 +67,7 @@ Virtualization or Processor Version Information
 
 **Screenshots**
 > If applicable, please add screenshots to help explain your problem.
-
-
-**Desktop:**
-> please complete the following information
- - Operating System: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
+> 
 
 **Anything else you'd like us to know?**
 > Please add anything else you'd like us to know
