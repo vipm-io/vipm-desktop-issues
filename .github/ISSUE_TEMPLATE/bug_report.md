@@ -11,7 +11,7 @@ assignees: 'jimkring'
 > Dear VIPM User,
 > 
 > Thank you for submitting this bug report! It makes a big difference to the VIPM Community and the VIPM Team.
-> Please fill out as much or as little information below as makes sense to your -- we know your time is important.
+> Please fill out as much or as little information below as makes sense to you -- we know your time is important and appreciate you sharing it with us.
 > All of the information you provide (especially your VIPM Version, OS, and Steps to Reproduce) will greatly help us fix your bug.
 > 
 > Note: Don't feel you need to delete any of the placeholder text.  The VIPM team will clean things up after you submit the issue.
