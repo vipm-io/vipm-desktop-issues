@@ -3,7 +3,7 @@ VIPM Desktop - Public Issue Tracker <img align="left" width="64" height="64" src
 All software has bugs. So does VIPM. Thanks for your help reporting them!
 
 ## Report a Bug
-[![](https://user-images.githubusercontent.com/381432/151610088-26adc1da-175d-442a-b528-9046a91e9dee.png)](https://github.com/vipm-io/vipm-desktop-issues/issues/new)
+[![](https://user-images.githubusercontent.com/381432/151610088-26adc1da-175d-442a-b528-9046a91e9dee.png)](https://github.com/vipm-io/vipm-desktop-issues/issues/new/choose)
 
 ## Download VIPM Desktop
 To download the latest release of VIPM Desktop, go here: [vipm.io/desktop](https://vipm.io/desktop)
