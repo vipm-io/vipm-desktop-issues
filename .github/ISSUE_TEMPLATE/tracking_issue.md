@@ -15,8 +15,8 @@ Feature branch name:
 
 Original user report: #[issue number]
 
-## Repoducing the Issue
-> Explain how to repoduce the issue and attach resources to this issue as required
+## Reproducing the Issue            <!-- Fixed spelling: "Repoducing" → "Reproducing" -->
+> Explain how to reproduce the issue and attach resources to this issue as required      <!-- Fixed spelling: "repoduce" → "reproduce" -->
 
 ## Usability Fix Proposal
 > Describe the proposed solution and how it addresses the user's needs
