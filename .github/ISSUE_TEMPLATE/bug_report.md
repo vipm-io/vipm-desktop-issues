@@ -2,8 +2,9 @@
 name: Bug report
 about: Report a bug to help us make VIPM work better for you
 title: ''
-labels: 'new'
-assignees: 'jimkring'
+labels: ''
+assignees: jimkring
+
 ---
 
 **A Note to You (With Appreciation from Our Team)**
@@ -69,4 +70,3 @@ Virtualization or Processor Version Information
 
 **Anything else you'd like us to know?**
 > Please add anything else you'd like us to know
-
